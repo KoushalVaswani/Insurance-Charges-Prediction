@@ -25,4 +25,4 @@ This project aims to predict the annual medical insurance charges of an individu
 - [ ] Create an explicit feature interaction column for `is_smoker` * `bmi_category_Obese` to better capture combined high-risk premiums.
 
 ## Live Demo
-https://your-streamlit-app-link.streamlit.app
+https://insurance-charges-prediction-ggits96.streamlit.app/
