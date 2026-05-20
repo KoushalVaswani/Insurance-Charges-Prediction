@@ -23,3 +23,6 @@ This project aims to predict the annual medical insurance charges of an individu
 - [ ] Implement a Log Transformation on the target variable (`charges`) to fix non-linear patterns.
 - [ ] Experiment with advanced tree-based algorithms like **Random Forest Regressor** and **XGBoost**.
 - [ ] Create an explicit feature interaction column for `is_smoker` * `bmi_category_Obese` to better capture combined high-risk premiums.
+
+## Live Demo
+https://your-streamlit-app-link.streamlit.app
